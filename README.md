@@ -70,14 +70,6 @@ open index.html
 
 ---
 
-## Deploy Changes
-
-```bash
-git add .
-git commit -m "Your update message"
-git push
-```
-
 GitHub Pages auto-rebuilds in ~60 seconds.
 
 ---
